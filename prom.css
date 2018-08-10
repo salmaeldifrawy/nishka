@@ -1,0 +1,40 @@
+p {
+  color: pink;
+  font-size: 4em;
+  font-family: "Courier New", Courier, Monospace;
+  text-align: center
+
+}
+h4 {
+   color: teal;
+   font-size: 2em;
+  font-family: "Courier New", Courier, Monospace;
+   text-align: center;
+   font-weight: bold:
+ }
+h3 {
+    color: white ;
+    font-family: "Courier New", Courier, Monospace;
+    font-size: 2em;
+
+    text-align:left;
+    font-weight: bold:
+  }
+h5 {
+      color: teal;
+      font-family: "Courier New", Courier, Monospace;
+      font-size: 1em;
+
+      text-align:left;
+      font-weight: bold:
+    }
+.center {
+      /* margin-left: auto;
+      margin-right: auto; */
+      display: inline-block;
+      /* justify-content: center; */
+}
+
+.container {
+  text-align: center;
+}
